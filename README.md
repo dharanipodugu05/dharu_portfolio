@@ -22,6 +22,18 @@ It serves as part of my learning journey in cloud computing and web hosting.
 - Uploading and managing content through the **Azure Portal**  
 - Accessing and sharing the website via a **public endpoint**
 
+ ## 📸 Screenshots
+
+### 1. Azure Storage Account Overview  
+![Storage Overview](./storage-overview.png)
+
+### 2. Static Website Configuration Enabled  
+![Static Site](./static-site-enabled.png)
+
+### 3. Live Website Hosted on Azure  
+![Live Website](./live-site.png)
+
+
 ## 📄 License
 This project is open for learning and showcasing purposes.
 
