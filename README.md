@@ -22,10 +22,11 @@ It serves as part of my learning journey in cloud computing and web hosting.
 - Uploading and managing content through the **Azure Portal**  
 - Accessing and sharing the website via a **public endpoint**
 
- ## 📸 Screenshots
+📸 Screenshots
 
 ### 1. Azure Storage Account Overview  
-![Storage Overview](./storage-overview.png)
+![Storage Overview](./Storage_overview.png)
+
 
 ### 2. Static Website Configuration Enabled  
 ![Static Site](./static-site-enabled.png)
