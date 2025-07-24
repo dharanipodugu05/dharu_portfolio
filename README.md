@@ -1,22 +1,27 @@
 # dharu_portfolio
 Deployed a static HTML website on Microsoft Azure using Blob Storage.
-# Azure Static Website Project
+# 🌐 Azure Static Website Deployment
 
-This project demonstrates how I deployed a static website using Microsoft Azure Blob Storage.
+This project demonstrates how I deployed a static HTML website using **Microsoft Azure Blob Storage**.  
+It serves as part of my learning journey in cloud computing and web hosting.
 
-## 🌐 Live Site
-🔗 [https://dharanicloudsite123.z13.web.core.windows.net](https://dharanicloudsite123.z13.web.core.windows.net)
+## 🔗 Live Website
+[Click here to view the live site](https://dharanicloudsite123.z13.web.core.windows.net)
 
-## 🛠 Tools Used
+## 🧰 Tools & Technologies
 - Microsoft Azure
 - Azure Blob Storage
 - Azure Portal
-- HTML
+- HTML/CSS
 
-## 🧠 What I Learned
-- How to create and configure a storage account in Azure
-- How to enable static website hosting
-- How to upload and serve HTML content publicly via Azure
+## 📁 Project Structure
 
-## 📁 Files
-- `index.html` – Static landing page for the hosted site
+## 🚀 What I Learned
+- How to create and configure a **Storage Account** on Azure  
+- Enabling **Static Website Hosting**  
+- Uploading and managing content through the **Azure Portal**  
+- Accessing and sharing the website via a **public endpoint**
+
+## 📄 License
+This project is open for learning and showcasing purposes.
+
